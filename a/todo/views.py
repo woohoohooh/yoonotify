@@ -1,6 +1,6 @@
 from django.shortcuts import render
 def index(requests):
-    r = requests.GET
+    r = requests.POST
     print(r)
     with open('saved.txt', 'a', encoding='1258') as f:
         f.write(str(requests))

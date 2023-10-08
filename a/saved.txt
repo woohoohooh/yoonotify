@@ -1,3 +1,5 @@
  <WSGIRequest: GET '/?plan=1day&sum=50'>
 <WSGIRequest: GET '/?plan=1day&sum=50'>
 <WSGIRequest: GET '/?plan=1day&sum=50'>
+<WSGIRequest: GET '/'>
+<WSGIRequest: GET '/?location=finland&plan=1week'>
